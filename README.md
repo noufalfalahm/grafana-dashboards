@@ -18,14 +18,20 @@ Repositori ini berisi kumpulan konfigurasi ekspor skema dashboard Grafana (`dash
 3. *Node Exporter Full* (`Node Exporter Full-1794367577975.json`)
    - **Fungsi:** Pemantauan mendalam metrik server Linux (Node Exporter).
   
-     ![Uploading Screenshot 2026-11-16 145634.png…]()
+     <img width="1807" height="630" alt="Screenshot 2026-11-16 145634" src="https://github.com/user-attachments/assets/b03cd078-4561-4c62-8e32-eeff8385c9fb" />
 
 
 4. *Disk Space Utilization Trend* (`Disk Space Utilization Trend (Tren Penggunaan Disk)-1794367545319.json`)
    - **Fungsi:** Monitoring tren ruang penyimpanan dan integrasi metrik Zabbix.
+  
+   <img width="1811" height="630" alt="Screenshot 2026-11-16 145805" src="https://github.com/user-attachments/assets/cda07cd9-ead9-40a5-b765-878550acb108" />
 
-5. *Enterprise Monitoring Stack / Coba Coba* (`COBA COBA-1794367533190.json`)
+
+6. *Enterprise Monitoring Stack / Coba Coba* (`COBA COBA-1794367533190.json`)
    - **Fungsi:** Dashboard alternatif terpadu pemantauan host, Docker Engine, dan website.
+  
+     <img width="1833" height="537" alt="Screenshot 2026-11-16 150238" src="https://github.com/user-attachments/assets/be17bbcc-5ad5-4673-9224-26061fc22a06" />
+
 
 ## 🛠️ Prasyarat (Prerequisites)
 
