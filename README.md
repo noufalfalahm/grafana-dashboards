@@ -7,14 +7,21 @@ Repositori ini berisi kumpulan konfigurasi ekspor skema dashboard Grafana (`dash
 1. **Pusat Monitoring Lengkap: Server, Website & Docker** (`Pusat Monitoring Lengkap_ Server, Website & Docker-1794386001760.json`)
    - **Fungsi:** Dashboard utama dan terpadu untuk memantau kesehatan server, performa kontainer Docker, ketersediaan website, serta sistem *alerting* otomatis via Discord.
    - **Fitur:** Panduan membaca dashboard, ringkasan kesehatan sistem (CPU, RAM, Uptime), panel alert aktif, pemantauan website & SSL, metrik Node Exporter mendalam, statistik Docker, hingga kesehatan target Prometheus.
+  
+   <img width="1806" height="669" alt="Screenshot 2026-11-16 145316" src="https://github.com/user-attachments/assets/c84772f8-da50-4cfc-b0c1-c5e66bd096e2" />
 
-2. *Node Exporter Full* (`Node Exporter Full-1794367577975.json`)
+
+   <img width="1812" height="701" alt="Screenshot 2026-11-16 145401" src="https://github.com/user-attachments/assets/2e3affcf-302f-4569-8b95-dbf77f6cd1eb" />
+
+
+
+3. *Node Exporter Full* (`Node Exporter Full-1794367577975.json`)
    - **Fungsi:** Pemantauan mendalam metrik server Linux (Node Exporter).
 
-3. *Disk Space Utilization Trend* (`Disk Space Utilization Trend (Tren Penggunaan Disk)-1794367545319.json`)
+4. *Disk Space Utilization Trend* (`Disk Space Utilization Trend (Tren Penggunaan Disk)-1794367545319.json`)
    - **Fungsi:** Monitoring tren ruang penyimpanan dan integrasi metrik Zabbix.
 
-4. *Enterprise Monitoring Stack / Coba Coba* (`COBA COBA-1794367533190.json`)
+5. *Enterprise Monitoring Stack / Coba Coba* (`COBA COBA-1794367533190.json`)
    - **Fungsi:** Dashboard alternatif terpadu pemantauan host, Docker Engine, dan website.
 
 ## 🛠️ Prasyarat (Prerequisites)
