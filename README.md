@@ -17,6 +17,9 @@ Repositori ini berisi kumpulan konfigurasi ekspor skema dashboard Grafana (`dash
 
 3. *Node Exporter Full* (`Node Exporter Full-1794367577975.json`)
    - **Fungsi:** Pemantauan mendalam metrik server Linux (Node Exporter).
+  
+     ![Uploading Screenshot 2026-11-16 145634.png…]()
+
 
 4. *Disk Space Utilization Trend* (`Disk Space Utilization Trend (Tren Penggunaan Disk)-1794367545319.json`)
    - **Fungsi:** Monitoring tren ruang penyimpanan dan integrasi metrik Zabbix.
